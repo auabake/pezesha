@@ -16,4 +16,4 @@ Bring services down:
 
 ## Delployment
 
-`The docker image is deployed to Image registry.`
+The docker image is deployed to Image registry. Pull and run the image.
