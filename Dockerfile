@@ -55,4 +55,4 @@ USER django-user
 EXPOSE 8000
 
 #use gunicorn to serve the project
-CMD gunicorn app.wsgi:application --bind 0.0.0.0:8000
+CMD gunicorn django_project.wsgi:application --bind 0.0.0.0:8000
