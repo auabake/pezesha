@@ -21,7 +21,7 @@ RUN pip install --no-cache-dir --upgrade pip \
 #Remove build dependencies that are not needed 
 RUN apk del build-base
 
-COPY ./django_project /app
+COPY . /app
 
 # Set ownership to the user
 RUN chown -R django-user /app
