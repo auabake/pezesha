@@ -2,8 +2,6 @@ version: '3.7'
 
 services:
   django_project:
-    volumes:
-      - static:/static
     build:
       context: .
     ports:
