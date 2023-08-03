@@ -16,4 +16,4 @@ Bring services down:
 
 ## Delployment
 
-The docker image is deployed to Image registry. Pull and run the image.
+The docker image is deployed to the Image registry. You simply pull and run the image.
