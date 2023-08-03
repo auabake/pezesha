@@ -51,6 +51,4 @@ coverage.xml
 docs/_build/
 
 migrations/
-.sqlite3
-db.sqlite3
 .vscode/
