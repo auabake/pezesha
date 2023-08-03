@@ -55,4 +55,4 @@ USER django-user
 EXPOSE 8000
 
 #use gunicorn to serve the project
-CMD pythom manage.py runserver
+CMD python manage.py runserver
