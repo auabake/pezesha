@@ -47,27 +47,33 @@ Go to authorize and paste the token, the close.
 ![auth](./create.png)
 
 Use this to create account.
-`{
+
+```
+{
   "account_name": "test",
   "account_type": "current_account",
   "balance": "1000"
-}`
+}
+````
 
 ## List accounts
 
 ![auth](./getaccount.png)
 
-`http://127.0.0.1:8000/api/v1/accounts/1/
-`
+```
+http://127.0.0.1:8000/api/v1/accounts/1/
+```
+
 This will list the account with id 1
 
 ## Send
 
 ![auth](./send.png)
 
-`{
+```
+{
   "from_account": 2,  
   "to_account": 1,    
   "amount": 2000
 }
-`
+```
