@@ -9,20 +9,28 @@ You can use swagger or postman to test the endpoints.
 This works if you have docker instlled
 
 Run services:
-`docker-compose up -d --remove-orphans`
+```
+docker-compose up -d --remove-orphans
+```
 
 Bring services down:
-`docker-compose down`
+```
+docker-compose down
+```
 
 ## On Windows
 
 Install python 3.11
 
 Install requirements
-`pip install -r reuirements.txt`
+```
+pip install -r reuirements.txt
+```
 
 Run the project
-`python manage.py runserver`
+```
+python manage.py runserver
+```
 
 ## Delployment
 
