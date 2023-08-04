@@ -4,11 +4,27 @@
 
 You can use Swagger or Postman to test the endpoints.
 
+## Run with Docker
+
+```
+ docker pull auabake/pezesha
+```
+
+```
+docker run -p 8000:8000 auabake/pezesha -d
+```
+
+the application will be running on
+http://127.0.0.1:8000/api/v1/swagger/
+
+You can access with Swagger or Postman 
+
 ## Run with Docker Compose
 
-This works if you have docker instlled
+This works if you have docker compose instlled
 
 Run services:
+
 ```
 docker-compose up -d --remove-orphans
 ```
