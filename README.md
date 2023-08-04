@@ -24,12 +24,12 @@ Clone the repo cd into the repo.
 Run services:
 
 ```
-docker-compose up -d --remove-orphans
+docker compose up -d --remove-orphans
 ```
 
 Bring services down:
 ```
-docker-compose down
+docker compose down
 ```
 
 ## On Windows
