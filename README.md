@@ -16,11 +16,13 @@ Bring services down:
 
 ## On Windows
 
-Install python
+Install python 3.11
 
 Install requirements
+`pip install -r reuirements.txt`
 
 Run the project
+`python manage.py runserver`
 
 ## Delployment
 
