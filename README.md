@@ -4,7 +4,17 @@
 
 ## Auth
 
+![auth](./auth.png)
+
+Go to this endpoint use username:pezesha password:pezesha 
+
+![auth](./accesstoken.png)
+
+Copy access token
+
 ![auth](./token.png)
+
+Go to authorize and paste the token, the close.
 
 ## Run with Docker Compose
 
