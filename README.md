@@ -2,8 +2,6 @@
 
 ![Pezesha](./images/pezesha.png)
 
-You can use Swagger or Postman to test the endpoints.
-
 ## Run with Docker
 
 ```
@@ -20,6 +18,7 @@ the application will be running on
 ## Run with Docker Compose
 
 This works if you have docker compose instlled
+Clone the repo run this commands.
 
 Run services:
 
