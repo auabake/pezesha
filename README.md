@@ -2,7 +2,7 @@
 
 ![Pezesha](./pezesha.png)
 
-You can use swagger or postman to test the endpoints.
+You can use Swagger or Postman to test the endpoints.
 
 ## Run with Docker Compose
 
@@ -36,7 +36,7 @@ python manage.py runserver
 
 The docker image is deployed to the Image registry. You simply pull and run the image.
 
-## Auth
+## Auth Endpoint
 
 ![auth](./auth.png)
 
@@ -50,7 +50,7 @@ Copy access token
 
 Go to authorize and paste the token, the close.
 
-## Create
+## Create Account Endpoint
 
 ![auth](./create.png)
 
@@ -64,7 +64,7 @@ Use this to create account.
 }
 ````
 
-## List accounts
+## List accounts Endpoint
 
 ![auth](./getaccount.png)
 
@@ -74,7 +74,7 @@ http://127.0.0.1:8000/api/v1/accounts/1/
 
 This will list the account with id 1
 
-## Send
+## Money Transfer Endpoint
 
 ![auth](./send.png)
 
