@@ -2,9 +2,11 @@
 
 ![Pezesha](./pezesha.png)
 
+You can use swagger or postman to test the endpoints.
+
 ## Run with Docker Compose
 
-This works if you have docker instlled 
+This works if you have docker instlled
 
 Run services:
 `docker-compose up -d --remove-orphans`
@@ -48,6 +50,14 @@ Use this to create account.
   "account_type": "current_account",
   "balance": "1000"
 }`
+
+## List accounts
+
+![auth](./getaccount.png)
+
+`http://127.0.0.1:8000/api/v1/accounts/1/
+`
+This will list the account with id 1
 
 ## Send
 
