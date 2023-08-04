@@ -28,6 +28,7 @@ docker compose up -d --remove-orphans
 ```
 
 Bring services down:
+
 ```
 docker compose down
 ```
@@ -54,7 +55,7 @@ The docker image is deployed to the Image registry. You simply pull and run the 
 
 ![auth](./images/auth.png)
 
-Go to this endpoint use username:pezesha password:pezesha 
+Go to this endpoint use username:pezesha password:pezesha
 
 ![auth](./images/accesstoken.png)
 
@@ -68,7 +69,7 @@ Go to authorize and paste the token, the close.
 
 ![auth](./images/create.png)
 
-Use this to create account.
+Use this to create account
 
 ```
 {
