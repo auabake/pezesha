@@ -11,7 +11,7 @@ You can use Swagger or Postman to test the endpoints.
 ```
 
 ```
-docker run -p 8000:8000 auabake/pezesha -d
+docker run -p 8000:8000 auabake/pezesha
 ```
 
 the application will be running on
