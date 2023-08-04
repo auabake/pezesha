@@ -32,9 +32,9 @@ Run the project
 python manage.py runserver
 ```
 
-## Delployment
+## Delployment CI/CD Devops
 
-The docker image is deployed to the Image registry. You simply pull and run the image.
+The docker image is deployed to the Image registry. You simply pull and run the image. In your pipeline.
 
 ## Auth Endpoint
 
