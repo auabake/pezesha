@@ -4,6 +4,8 @@
 
 ## Run with Docker
 
+Docker should be installed and running on your computer.
+
 ```
  docker pull auabake/pezesha
 ```
@@ -17,7 +19,7 @@ the application will be running on
 
 ## Run with Docker Compose
 
-This works if you have docker compose installed
+Docker should be installed and running on your computer.
 
 Clone the repo cd into the repo.
 
