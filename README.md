@@ -33,7 +33,7 @@ Bring services down:
 docker compose down
 ```
 
-## On Windows
+## On Windows / Linux
 
 Install python 3.11
 
