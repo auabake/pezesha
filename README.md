@@ -15,7 +15,7 @@ docker run -p 8000:8000 auabake/pezesha
 ```
 
 the application will be running on
-http://127.0.0.1:8000/api/v1/swagger/
+`http://127.0.0.1:8000/api/v1/swagger/`
 
 You can access with Swagger or Postman 
 
