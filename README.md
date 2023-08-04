@@ -1,6 +1,6 @@
 # Pezesha
 
-![Pezesha](./pezesha.png)
+![Pezesha](./images/pezesha.png)
 
 You can use Swagger or Postman to test the endpoints.
 
@@ -38,21 +38,21 @@ The docker image is deployed to the Image registry. You simply pull and run the 
 
 ## Auth Endpoint
 
-![auth](./auth.png)
+![auth](./images/auth.png)
 
 Go to this endpoint use username:pezesha password:pezesha 
 
-![auth](./accesstoken.png)
+![auth](./images/accesstoken.png)
 
 Copy access token
 
-![auth](./token.png)
+![auth](./images/token.png)
 
 Go to authorize and paste the token, the close.
 
 ## Create Account Endpoint
 
-![auth](./create.png)
+![auth](./images/create.png)
 
 Use this to create account.
 
@@ -66,7 +66,7 @@ Use this to create account.
 
 ## List accounts Endpoint
 
-![auth](./getaccount.png)
+![auth](./images/getaccount.png)
 
 ```
 http://127.0.0.1:8000/api/v1/accounts/1/
@@ -76,7 +76,7 @@ This will list the account with id 1
 
 ## Money Transfer Endpoint
 
-![auth](./send.png)
+![auth](./images/send.png)
 
 ```
 {
