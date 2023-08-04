@@ -14,7 +14,7 @@ Run services:
 Bring services down:
 `docker-compose down`
 
-on Windows
+## On Windows
 
 Install python
 
