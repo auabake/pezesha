@@ -17,8 +17,9 @@ the application will be running on
 
 ## Run with Docker Compose
 
-This works if you have docker compose instlled
-Clone the repo run this commands.
+This works if you have docker compose installed
+
+Clone the repo cd into the repo.
 
 Run services:
 
