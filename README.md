@@ -14,6 +14,12 @@ Docker should be installed and running on your computer.
 docker run -p 8000:8000 auabake/pezesha
 ```
 
+To view the docker image use this link
+
+```
+https://hub.docker.com/repository/docker/auabake/pezesha/general
+```
+
 the application will be running on
 `http://127.0.0.1:8000/api/v1/swagger/` you can access with Swagger or Postman
 
