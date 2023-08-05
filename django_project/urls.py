@@ -22,7 +22,7 @@ from rest_framework import permissions
 
 schema_view = get_schema_view(
     openapi.Info(
-        title="Pezesha Money Transer API Documentation",
+        title="Pezesha Money Transfer API Documentation",
         default_version="version 1.0",
         description="All (modules) apps APIs",
         terms_of_service="#",
