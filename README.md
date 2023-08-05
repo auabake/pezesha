@@ -1,6 +1,6 @@
 # Pezesha
 
-![Pezesha](./images/pezesha.png)
+![Pezesha](./images/pezeshai.png)
 
 ## Run with Docker
 
